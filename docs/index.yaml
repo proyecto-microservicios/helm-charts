@@ -20,6 +20,6 @@ entries:
     name: prueba
     type: application
     urls:
-    - https://proyecto-microservicios.github.com/helm-charts/prueba-0.1.0.tgz
+    - prueba-0.1.0.tgz
     version: 0.1.0
 generated: "2021-01-23T23:29:34.935135-03:00"
