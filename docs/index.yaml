@@ -9,6 +9,6 @@ entries:
     name: microservice1
     type: application
     urls:
-    - https://proyecto-microservicios.github.com/helm-charts/docs/microservice1-0.1.0.tgz
+    - https://proyecto-microservicios.github.com/helm-charts/microservice1-0.1.0.tgz
     version: 0.1.0
 generated: "2021-01-23T22:49:03.338316-03:00"
