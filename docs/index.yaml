@@ -3,34 +3,34 @@ entries:
   microservice1:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-25T22:34:27.485263-03:00"
+    created: "2021-01-25T22:45:31.145307-03:00"
     description: A Helm chart for Kubernetes
     digest: ff73db028b664022a041133aa6dcaa9ebbe2d9e033a9e72468a6a35567a75268
     name: microservice1
     type: application
     urls:
-    - https://proyecto-microservicios.github.com/helm-charts/microservice1-0.1.0.tgz
+    - https://proyecto-microservicios.github.io/helm-charts/microservice1-0.1.0.tgz
     version: 0.1.0
   prueba:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-25T22:34:27.486053-03:00"
+    created: "2021-01-25T22:45:31.146309-03:00"
     description: A Helm chart for Kubernetes
     digest: 081b8ed88fb4c49e0f09136913932ba701ab21af533205e067fad71bebf8a9f8
     name: prueba
     type: application
     urls:
-    - https://proyecto-microservicios.github.com/helm-charts/prueba-0.1.0.tgz
+    - https://proyecto-microservicios.github.io/helm-charts/prueba-0.1.0.tgz
     version: 0.1.0
   web-server-template:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-25T22:34:27.48673-03:00"
+    created: "2021-01-25T22:45:31.147238-03:00"
     description: A Helm chart for Kubernetes
     digest: a97bc6ea36b58e484076ffe2fa17954b7f9ce4e4080c96b90b7e09232023acf0
     name: web-server-template
     type: application
     urls:
-    - https://proyecto-microservicios.github.com/helm-charts/web-server-template-0.1.0.tgz
+    - https://proyecto-microservicios.github.io/helm-charts/web-server-template-0.1.0.tgz
     version: 0.1.0
-generated: "2021-01-25T22:34:27.484053-03:00"
+generated: "2021-01-25T22:45:31.121462-03:00"
