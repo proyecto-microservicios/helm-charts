@@ -10,6 +10,19 @@ image:
   # Overrides the image tag whose default is the chart appVersion.
   tag: "latest"
 
+healthcheck:
+  path: /docs
+
+containerPort: 8000
+
+envVars:
+    DB_USERNAME: postgres 
+    DB_PASSWORD: password
+    DB_HOST: db1-postgresql.databases.svc.cluster.local
+    DB_PORT: 5432 
+    DB_NAME: web_server_template
+    DB_ENGINE: postgres
+
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
