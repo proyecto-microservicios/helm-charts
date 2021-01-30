@@ -3,7 +3,7 @@ entries:
   microservice1:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-30T20:32:05.24411-03:00"
+    created: "2021-01-30T20:34:12.254887-03:00"
     description: A Helm chart for Kubernetes
     digest: ff73db028b664022a041133aa6dcaa9ebbe2d9e033a9e72468a6a35567a75268
     name: microservice1
@@ -14,7 +14,7 @@ entries:
   prueba:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-30T20:32:05.244696-03:00"
+    created: "2021-01-30T20:34:12.255728-03:00"
     description: A Helm chart for Kubernetes
     digest: 081b8ed88fb4c49e0f09136913932ba701ab21af533205e067fad71bebf8a9f8
     name: prueba
@@ -25,9 +25,9 @@ entries:
   web-server-template:
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2021-01-30T20:32:05.246871-03:00"
+    created: "2021-01-30T20:34:12.258038-03:00"
     description: A Helm chart for Kubernetes
-    digest: df780b958c336a7f68e8eb84d84dbc90021f825431d3fdcc24ecc84aae4f74c2
+    digest: f8f0d53d419388e43ed6f2f6b9f94d64369d9dccab498373f7233c06100d8320
     name: web-server-template
     type: application
     urls:
@@ -35,7 +35,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2021-01-30T20:32:05.246037-03:00"
+    created: "2021-01-30T20:34:12.257275-03:00"
     description: A Helm chart for Kubernetes
     digest: 4b71ce63e5446dd32d79cf467c36095b8bcd8442cb93327aa309314022473190
     name: web-server-template
@@ -45,7 +45,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-30T20:32:05.245279-03:00"
+    created: "2021-01-30T20:34:12.256516-03:00"
     description: A Helm chart for Kubernetes
     digest: a97bc6ea36b58e484076ffe2fa17954b7f9ce4e4080c96b90b7e09232023acf0
     name: web-server-template
@@ -53,4 +53,4 @@ entries:
     urls:
     - https://proyecto-microservicios.github.com/helm-charts/web-server-template-0.1.0.tgz
     version: 0.1.0
-generated: "2021-01-30T20:32:05.24355-03:00"
+generated: "2021-01-30T20:34:12.253991-03:00"
