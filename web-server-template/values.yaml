@@ -11,7 +11,7 @@ image:
   tag: "latest"
 
 healthcheck:
-  path: /docs
+  path: /status
 
 containerPort: 8000
 
