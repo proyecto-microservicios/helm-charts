@@ -15,6 +15,9 @@ healthcheck:
 
 containerPort: 8000
 
+# command: ['uvicorn']
+# args: ['src.main:app', '--host', '0.0.0.0']
+
 envVars:
     DB_USERNAME: postgres 
     DB_PASSWORD: password
