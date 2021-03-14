@@ -1,1 +1,0 @@
-This page is to show that your microservice1 project is deployed and addressable
