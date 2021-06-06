@@ -3,9 +3,9 @@ entries:
   kafka-connect:
   - apiVersion: v2
     appVersion: "0.1"
-    created: "2021-03-13T22:22:12.59245-03:00"
+    created: "2021-06-06T19:37:26.118294-03:00"
     description: A Helm chart for Kubernetes
-    digest: c0f8f30f1d27a25a9ee230aeb2ca23ee60dffce44be3d2c0239bbf75a9b467f8
+    digest: d56b8bf7075916f83ddbd87694c509d678f4035cfa9cabd7d81afcba614a1fe5
     name: kafka-connect
     type: application
     urls:
@@ -14,7 +14,7 @@ entries:
   web-server-template:
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2021-03-13T22:22:12.596461-03:00"
+    created: "2021-06-06T19:37:26.123013-03:00"
     description: A Helm chart for Kubernetes
     digest: dccb38c5b4682386c8cd61340537836fab7557081af072d64eea3d4fe6a99fac
     name: web-server-template
@@ -24,7 +24,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2021-03-13T22:22:12.595157-03:00"
+    created: "2021-06-06T19:37:26.121391-03:00"
     description: A Helm chart for Kubernetes
     digest: 1c94ff3013a32012b0d173b6f52649c1be9396e0ba60f785079e944a2738b608
     name: web-server-template
@@ -34,7 +34,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2021-03-13T22:22:12.593855-03:00"
+    created: "2021-06-06T19:37:26.119623-03:00"
     description: A Helm chart for Kubernetes
     digest: b3d32f52427bc46c7e85b236bd1ea0031b94549ecfd1be12070792cd7d657efd
     name: web-server-template
@@ -42,4 +42,4 @@ entries:
     urls:
     - https://proyecto-microservicios.github.io/helm-charts/web-server-template-0.1.2.tgz
     version: 0.1.2
-generated: "2021-03-13T22:22:12.591892-03:00"
+generated: "2021-06-06T19:37:26.115973-03:00"
