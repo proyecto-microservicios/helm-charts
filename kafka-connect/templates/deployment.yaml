@@ -48,12 +48,16 @@ spec:
               port: {{ .Values.containerPort }}
             initialDelaySeconds: 5
             periodSeconds: 5
+            timeoutSeconds: 1
+            failureThreshold: 3
           readinessProbe:
             httpGet:
               path: {{ .Values.healthcheck.path }}
               port: {{ .Values.containerPort }}
             initialDelaySeconds: 15
             periodSeconds: 20
+            timeoutSeconds: 1
+            failureThreshold: 3
           resources:
             {{- toYaml .Values.resources | nindent 12 }}
       {{- with .Values.nodeSelector }}
